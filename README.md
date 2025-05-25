@@ -1,3 +1,5 @@
+Weather App, Bucur Amalia, 1132
+
 Introducere
 
 Aplicația „Weather App” este o aplicație web modernă dezvoltată în React care oferă informații despre vreme pentru orice oraș introdus de utilizator. Ea folosește două servicii cloud prin API REST pentru a prelua date meteo și imagini tematice dinamice.
